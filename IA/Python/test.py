@@ -6,7 +6,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error
 from datetime import timedelta
 
 # Charger les données
-data = pd.read_csv('C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\donnees_temperature.csv')  # Remplacez par le chemin vers vos données
+data = pd.read_csv('C:\\Users\\romwe\\Documents\\My Web Sites\\SAE5\\IA\\TemperaturePrediction\\donnees_temperature.csv')
 
 # Supposons que les colonnes pertinentes soient 'fenetre_ouverte', 'temp_ext', 'nb_personnes', 'humidite'
 X = data[['fenetre_ouverte', 'temp_ext', 'nb_personnes', 'humidite']]

@@ -34,3 +34,4 @@ C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\obj\Debug\ne
 C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\obj\Debug\net8.0\TemperaturePrediction.pdb
 C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\obj\Debug\net8.0\TemperaturePrediction.genruntimeconfig.cache
 C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\obj\Debug\net8.0\ref\TemperaturePrediction.dll
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\TemperaturePrediction\obj\Debug\net8.0\TemperaturePrediction.sourcelink.json
