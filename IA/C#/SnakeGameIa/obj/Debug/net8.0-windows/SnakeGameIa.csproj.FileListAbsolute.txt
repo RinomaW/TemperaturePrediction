@@ -1,0 +1,15 @@
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.AssemblyInfoInputs.cache
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.AssemblyInfo.cs
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.csproj.CoreCompileInputs.cache
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.sourcelink.json
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\bin\Debug\net8.0-windows\SnakeGameIa.exe
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\bin\Debug\net8.0-windows\SnakeGameIa.deps.json
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\bin\Debug\net8.0-windows\SnakeGameIa.runtimeconfig.json
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\bin\Debug\net8.0-windows\SnakeGameIa.dll
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\bin\Debug\net8.0-windows\SnakeGameIa.pdb
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.dll
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\refint\SnakeGameIa.dll
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.pdb
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\SnakeGameIa.genruntimeconfig.cache
+C:\Users\romwe\Documents\My Web Sites\SAE5\IA\C#\SnakeGameIa\obj\Debug\net8.0-windows\ref\SnakeGameIa.dll
